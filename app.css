@@ -23,7 +23,7 @@ input{
     background-color: whitesmoke;
     border: none;
     margin: 16px 0px 16px 0px;
-    
+    padding: 8px 0px 8px 0px;
 }
 input:focus{
     width: 100%;
@@ -31,7 +31,9 @@ input:focus{
     height: 50px;
     background-color: white;
     border: none;
+    
     margin: 16px 0px 16px 0px;
+    padding: 8px 0px 8px 0px;
     
 }
 
@@ -40,10 +42,9 @@ input:hover{
     display: inline-block;
     height: 50px;
     background-color:rgb(231, 231, 231);
-    color: white;
     border: none;
     margin: 16px 0px 16px 0px;
-    
+    padding: 8px 0px 8px 0px;
 }
 button{
     width: 100%;
